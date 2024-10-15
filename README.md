@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍🎓 I'm a final year under-grad having passion for building Machine Learning models and Research.
+🧑🏻‍🎓 I'm a final year under-grad having passion for building Machine Learning models and Research.<br>
 🔭 I’m currently working on ML Project "Hierarchical BiLSTM with Attention for Legal Document Classification".<br>👯 I’m looking to collaborate on my research project "Mathematical Analysis of Activation Functions: Investigating Their Impact on Gradient Behavior and Network Stability".<br>🌱 I’m currently learning how to generate synthetic data for improving model performace using GANs.<br>❤️I love to explore Cognitive Neuroscience and Anthropology fueling my curiosity to know more about the Human Intelligence and to contribute little things into AI.<br>⚡I spent my free time reading books(favourite thing) and writing books.
 
 ## 🌐 Socials:
